@@ -1,2 +1,0 @@
-
-Using this file to demonstrate git revert command.
